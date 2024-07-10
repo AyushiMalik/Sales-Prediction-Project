@@ -1,7 +1,9 @@
-### Sales-Prediction-Project
+## Predictive Analysis::
+### Sales Prediction Project
+#### Overview: The Project aims to predict Sales for TV, Radio, and Newspaper, Sales. The dataset is from kaggle. The level of observation is for each product.
 
 #### **Project Steps include:
-##### 1.) Library Imports
+##### 1.) Library Imports:: Importing required libraries for manipulation, cleaning, statistical summary, EDA, visualization, feature scaling, training and evaluating models.
 ##### 2.) Load Data
 ##### 3.) Handling Missing and Duplicate Values
 ##### 4.) Statistical Summary
