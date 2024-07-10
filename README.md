@@ -1,6 +1,6 @@
 ### Sales-Prediction-Project
 
-#### Project Steps include:
+#### **Project Steps include:
 ##### 1.) Library Imports
 ##### 2.) Load Data
 ##### 3.) Handling Missing and Duplicate Values
@@ -13,7 +13,7 @@
 ##### 10.) Model Comparison 
 ##### 11.) Conclusion
 
-##### Models Covered in the Project are:
+#### **Models Covered in the Project are:
 ##### 1.) Linear Regression
 ##### 2.) KNN
 ##### 3.) Decision Tree Regressor
