@@ -12,3 +12,9 @@
 ### 9.) Training and Evaluation of Models
 ### 10.) Model Comparison 
 ### 11.) Conclusion
+
+##### Models Covered in the Project are:
+##### 1.) Linear Regression
+##### 2.) KNN
+##### 3.) Decision Tree Regressor
+##### 4.) Random Forest Regressor
